@@ -4,8 +4,8 @@
 <a href="https://instagram.com/krishna_7339_"><img title="instagram" src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram"></a>
 
 ![badge](https://img.shields.io/badge/python-%3E%3D3.8-orange)
-![badge](https://img.shields.io/badge/Hacker.K -.8-orange)
-![badge](https://img.shields.io/badge/S<3M  -.8-orange)
+![badge](/badge/Hacker.K -.8-orange)
+![badge](/badge/S<3M  -.8-orange)
 
 
 

@@ -10,7 +10,7 @@
   
 ### Search for public profile information on Facebook
 
-![screenshot](phisherman.png)
+![screenshot](pisherman.png)
 
 ## Installation
 
